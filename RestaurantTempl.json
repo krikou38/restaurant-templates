@@ -1,0 +1,459 @@
+{
+    "template_name": "Restaurant local",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/b3118fbe?t=1734727113225&templateId=1075979&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/b3118fbe/screenshots/Screenshot.png?v=1591798992000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/b3118fbe/screenshots/Screenshot.png?v=1591798992000",
+    "tablet_thumbnail_url": "null?v=1591798992000",
+    "mobile_thumbnail_url": "null?v=1591798992000",
+    "template_id": 1075979,
+    "base_site_name": "b3118fbe",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "Restaurant Italien",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/243f1d22?t=1734727113233",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/243f1d22/screenshots/Screenshot_8il6s.png?v=1562792792000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/243f1d22/screenshots/Screenshot_8il6s.png?v=1562792792000",
+    "tablet_thumbnail_url": "null?v=1562792792000",
+    "mobile_thumbnail_url": "null?v=1562792792000",
+    "template_id": 1077555,
+    "base_site_name": "243f1d22",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": true,
+      "store_type": "THIRDPARTY",
+      "has_blog": false,
+      "page_count": 4,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "GASTRONOMIC_RESTAURANT",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/0445c417?t=1734727113237",
+    "thumbnail_url": "https://irp.cdn-website.com/0445c417/screenshots/Screenshot.png?v=1711907278000",
+    "desktop_thumbnail_url": "https://irp.cdn-website.com/0445c417/screenshots/Screenshot.png?v=1711907278000",
+    "tablet_thumbnail_url": "null?v=1711907278000",
+    "mobile_thumbnail_url": "null?v=1711907278000",
+    "template_id": 1079120,
+    "base_site_name": "0445c417",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": true,
+      "store_type": "THIRDPARTY",
+      "has_blog": false,
+      "page_count": 6,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "Restaurant local",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/ba45e11cbea846a58f3bb64c5983d4c4?t=1734727113305&templateId=1007187&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/md/dmtmpl/e50535b9-9e0a-44ab-8bb9-073939cf193b/siteTemplateIcons/yjbkB1agQoy8UDjEv16l_Local_Restaurant_BigPreview%20(1).jpg?v=1734118710000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/md/dmtmpl/e50535b9-9e0a-44ab-8bb9-073939cf193b/siteTemplateIcons/xpPwsrukShqI5xx88EdZ_local_restaurant_desktop.png?v=1734118710000",
+    "tablet_thumbnail_url": "https://irp-cdn.multiscreensite.com/md/dmtmpl/e50535b9-9e0a-44ab-8bb9-073939cf193b/siteTemplateIcons/QQju1esZQUOIf9HPV5RY_local_restaurant_tablet.png?v=1734118710000",
+    "mobile_thumbnail_url": "https://irp-cdn.multiscreensite.com/md/dmtmpl/e50535b9-9e0a-44ab-8bb9-073939cf193b/siteTemplateIcons/X2FgAgHSTWIhZgHQeKc7_local_restaurant_mobile.png?v=1734118710000",
+    "template_id": 1007187,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5
+    },
+    "editor": "ADVANCED"
+  },
+ {
+    "template_name": "Restaurant bio",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/4880d79ae69541e6bfd46bbd33b6d82c?t=1734727113338&templateId=1027884&languageCode=fr",
+    "thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/4562c285-0a1e-49c3-89ff-58291701b1f5/siteTemplateIcons/3DDHjNR2aNT3aGVUFzQQ_Organic_restaurant_3%20screens.png?v=1733333653000",
+    "desktop_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/4562c285-0a1e-49c3-89ff-58291701b1f5/siteTemplateIcons/Y6fJtkmTNqJ8WU7mzlfj_Organic_restaurant_Desktop.png?v=1733333653000",
+    "tablet_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/4562c285-0a1e-49c3-89ff-58291701b1f5/siteTemplateIcons/8o5H5crORLuxBbF81ShA_Organic_restaurant_Tablet.png?v=1733333653000",
+    "mobile_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/4562c285-0a1e-49c3-89ff-58291701b1f5/siteTemplateIcons/dEUvmLftSgqkFIaMiNkD_Organic_restaurant_Mobile.png?v=1733333653000",
+    "template_id": 1027884,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "Restaurant de sushis",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/3b9afaabe73f4a36847a5544febecc0b?t=1734727113353&templateId=1027883&languageCode=fr",
+    "thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/3ba21f71-6ffc-4c6e-afbf-8f9aaddbacec/siteTemplateIcons/M8fAD3xS2OmHtcWRmznA_Sushi_3%20screens.png?v=1733408032000",
+    "desktop_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/3ba21f71-6ffc-4c6e-afbf-8f9aaddbacec/siteTemplateIcons/kY4cPQbMTZunOOOc2R2J_Sushi_Desktop.png?v=1733408032000",
+    "tablet_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/3ba21f71-6ffc-4c6e-afbf-8f9aaddbacec/siteTemplateIcons/rwlnyAeWRK6yb1l30zDl_Sushi_Tablet.png?v=1733408032000",
+    "mobile_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/3ba21f71-6ffc-4c6e-afbf-8f9aaddbacec/siteTemplateIcons/1Rffd4LzRbeoaMD3Z25g_Sushi_Mobile.png?v=1733408032000",
+    "template_id": 1027883,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5
+    },
+    "editor": "ADVANCED"
+  },
+  {
+    "template_name": "Restaurant de hamburgers",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/c7a634f1579d47deb6967e3ddd4b9c21?t=1734727113361&templateId=1049888&languageCode=fr",
+    "thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/1d916745-1019-4589-bd4a-2b15087fb3da/siteTemplateIcons/ajt4Q7ENQWIuTmj9z4md_Burger_restaurant_3%20screens.png?v=1731880712000",
+    "desktop_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/1d916745-1019-4589-bd4a-2b15087fb3da/siteTemplateIcons/96itr48SdCBan4ClLmfp_Burger_restaurant_Desktop.png?v=1731880712000",
+    "tablet_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/1d916745-1019-4589-bd4a-2b15087fb3da/siteTemplateIcons/CByy9AAoS2p6HIHxrVjO_Burger_restaurant_Tablet.png?v=1731880712000",
+    "mobile_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/1d916745-1019-4589-bd4a-2b15087fb3da/siteTemplateIcons/egyBCXpsSGSBLzCq8pwT_Burger_Restaurant_Mobile.png?v=1731880712000",
+    "template_id": 1049888,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "Restaurant Italien",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/243f1d22?t=1734729525378",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/243f1d22/screenshots/Screenshot_8il6s.png?v=1562792792000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/243f1d22/screenshots/Screenshot_8il6s.png?v=1562792792000",
+    "tablet_thumbnail_url": "null?v=1562792792000",
+    "mobile_thumbnail_url": "null?v=1562792792000",
+    "template_id": 1077555,
+    "base_site_name": "243f1d22",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": true,
+      "store_type": "THIRDPARTY",
+      "has_blog": false,
+      "page_count": 4,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "Restaurant Poke",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/0ec4141e86104902a1e785afca87ecd8?t=1734727113374&templateId=1174053&languageCode=fr",
+    "thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/6833ea74-5aeb-4145-a036-4f1da836fdfc/siteTemplateIcons/RBhk2cdPRp6N0sDbr8HG_3%20screens.png?v=1734077862000",
+    "desktop_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/6833ea74-5aeb-4145-a036-4f1da836fdfc/siteTemplateIcons/dnJheUXGQ8aAQy18z1tX_Poke%20Restaurant%20Desktop.png?v=1734077862000",
+    "tablet_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/6833ea74-5aeb-4145-a036-4f1da836fdfc/siteTemplateIcons/HdMU90A5Q1W48N37UYJl_Poke%20Restaurant%20Tablet.png?v=1734077862000",
+    "mobile_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/6833ea74-5aeb-4145-a036-4f1da836fdfc/siteTemplateIcons/mDInfLWVQ6C9mzL4oIYF_Poke%20restaurant%20Mobile.png?v=1734077862000",
+    "template_id": 1174053,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 4
+    },
+    "editor": "ADVANCED"
+  },
+ {
+    "template_name": "Poke Restaurant",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/7c7a3c2cdf0b4d8fa824ade2634d9bfa?t=1734727113448&templateId=1476229&languageCode=fr",
+    "thumbnail_url": "https://irt-cdn.multiscreensite.com/siteTemplateIcons/3_Sreens_DevicesPoke_Restaurant_Flex_Editor.png?v=1734173209000",
+    "desktop_thumbnail_url": "https://irt-cdn.multiscreensite.com/siteTemplateIcons/DesktopPoke_Restaurant_Flex_Editor.png?v=1734173209000",
+    "tablet_thumbnail_url": "https://irt-cdn.multiscreensite.com/siteTemplateIcons/TabletPoke_Restaurant_Flex_Editor.png?v=1734173209000",
+    "mobile_thumbnail_url": "https://irt-cdn.multiscreensite.com/siteTemplateIcons/MobilePoke_Restaurant_Flex_Editor.png?v=1734173209000",
+    "template_id": 1476229,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 4
+    },
+    "editor": "ADVANCED-2.0"
+  },
+{
+    "template_name": "Chef Restaurant",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/06ff3c119a2d4cc3b35bb705c5efd4e6?t=1734727113462&templateId=1540281&languageCode=fr",
+    "thumbnail_url": "https://irt-cdn.multiscreensite.com/siteTemplateIcons/chef_restaurant_desktop.png?v=1733929625000",
+    "desktop_thumbnail_url": "https://irt-cdn.multiscreensite.com/siteTemplateIcons/chef_restaurant_desktop.png?v=1733929625000",
+    "tablet_thumbnail_url": "https://irt-cdn.multiscreensite.com/siteTemplateIcons/restaurant_editor2.0_Tablet.png?v=1733929625000",
+    "mobile_thumbnail_url": "https://irt-cdn.multiscreensite.com/siteTemplateIcons/watchstore_Mobile.png?v=1733929625000",
+    "template_id": 1540281,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5
+    },
+    "editor": "ADVANCED-2.0"
+  },
+{
+    "template_name": "Restaurant Italien",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/243f1d22?t=1734727113233",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/243f1d22/screenshots/Screenshot_8il6s.png?v=1562792792000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/243f1d22/screenshots/Screenshot_8il6s.png?v=1562792792000",
+    "tablet_thumbnail_url": "null?v=1562792792000",
+    "mobile_thumbnail_url": "null?v=1562792792000",
+    "template_id": 1077555,
+    "base_site_name": "243f1d22",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": true,
+      "store_type": "THIRDPARTY",
+      "has_blog": false,
+      "page_count": 4,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "Pizzeria italienne",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/4a628b6e?t=1734727113234&templateId=1077560&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/4a628b6e/screenshots/Screenshot.png?v=1591868776000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/4a628b6e/screenshots/Screenshot.png?v=1591868776000",
+    "tablet_thumbnail_url": "null?v=1591868776000",
+    "mobile_thumbnail_url": "null?v=1591868776000",
+    "template_id": 1077560,
+    "base_site_name": "4a628b6e",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 3,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "GASTRONOMIC_RESTAURANT",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/0445c417?t=1734727113237",
+    "thumbnail_url": "https://irp.cdn-website.com/0445c417/screenshots/Screenshot.png?v=1711907278000",
+    "desktop_thumbnail_url": "https://irp.cdn-website.com/0445c417/screenshots/Screenshot.png?v=1711907278000",
+    "tablet_thumbnail_url": "null?v=1711907278000",
+    "mobile_thumbnail_url": "null?v=1711907278000",
+    "template_id": 1079120,
+    "base_site_name": "0445c417",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": true,
+      "store_type": "THIRDPARTY",
+      "has_blog": false,
+      "page_count": 6,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "Restaurant local",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/ba45e11cbea846a58f3bb64c5983d4c4?t=1734727113305&templateId=1007187&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/md/dmtmpl/e50535b9-9e0a-44ab-8bb9-073939cf193b/siteTemplateIcons/yjbkB1agQoy8UDjEv16l_Local_Restaurant_BigPreview%20(1).jpg?v=1734118710000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/md/dmtmpl/e50535b9-9e0a-44ab-8bb9-073939cf193b/siteTemplateIcons/xpPwsrukShqI5xx88EdZ_local_restaurant_desktop.png?v=1734118710000",
+    "tablet_thumbnail_url": "https://irp-cdn.multiscreensite.com/md/dmtmpl/e50535b9-9e0a-44ab-8bb9-073939cf193b/siteTemplateIcons/QQju1esZQUOIf9HPV5RY_local_restaurant_tablet.png?v=1734118710000",
+    "mobile_thumbnail_url": "https://irp-cdn.multiscreensite.com/md/dmtmpl/e50535b9-9e0a-44ab-8bb9-073939cf193b/siteTemplateIcons/X2FgAgHSTWIhZgHQeKc7_local_restaurant_mobile.png?v=1734118710000",
+    "template_id": 1007187,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5
+    },
+    "editor": "ADVANCED"
+  },
+  {
+    "template_name": "Restaurant bio",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/4880d79ae69541e6bfd46bbd33b6d82c?t=1734727113338&templateId=1027884&languageCode=fr",
+    "thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/4562c285-0a1e-49c3-89ff-58291701b1f5/siteTemplateIcons/3DDHjNR2aNT3aGVUFzQQ_Organic_restaurant_3%20screens.png?v=1733333653000",
+    "desktop_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/4562c285-0a1e-49c3-89ff-58291701b1f5/siteTemplateIcons/Y6fJtkmTNqJ8WU7mzlfj_Organic_restaurant_Desktop.png?v=1733333653000",
+    "tablet_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/4562c285-0a1e-49c3-89ff-58291701b1f5/siteTemplateIcons/8o5H5crORLuxBbF81ShA_Organic_restaurant_Tablet.png?v=1733333653000",
+    "mobile_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/4562c285-0a1e-49c3-89ff-58291701b1f5/siteTemplateIcons/dEUvmLftSgqkFIaMiNkD_Organic_restaurant_Mobile.png?v=1733333653000",
+    "template_id": 1027884,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5
+    },
+    "editor": "ADVANCED"
+  },
+   {
+    "template_name": "Restaurant de sushis",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/3b9afaabe73f4a36847a5544febecc0b?t=1734727113353&templateId=1027883&languageCode=fr",
+    "thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/3ba21f71-6ffc-4c6e-afbf-8f9aaddbacec/siteTemplateIcons/M8fAD3xS2OmHtcWRmznA_Sushi_3%20screens.png?v=1733408032000",
+    "desktop_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/3ba21f71-6ffc-4c6e-afbf-8f9aaddbacec/siteTemplateIcons/kY4cPQbMTZunOOOc2R2J_Sushi_Desktop.png?v=1733408032000",
+    "tablet_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/3ba21f71-6ffc-4c6e-afbf-8f9aaddbacec/siteTemplateIcons/rwlnyAeWRK6yb1l30zDl_Sushi_Tablet.png?v=1733408032000",
+    "mobile_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/3ba21f71-6ffc-4c6e-afbf-8f9aaddbacec/siteTemplateIcons/1Rffd4LzRbeoaMD3Z25g_Sushi_Mobile.png?v=1733408032000",
+    "template_id": 1027883,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5
+    },
+    "editor": "ADVANCED"
+  },
+ {
+    "template_name": "Restaurant de hamburgers",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/c7a634f1579d47deb6967e3ddd4b9c21?t=1734727113361&templateId=1049888&languageCode=fr",
+    "thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/1d916745-1019-4589-bd4a-2b15087fb3da/siteTemplateIcons/ajt4Q7ENQWIuTmj9z4md_Burger_restaurant_3%20screens.png?v=1731880712000",
+    "desktop_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/1d916745-1019-4589-bd4a-2b15087fb3da/siteTemplateIcons/96itr48SdCBan4ClLmfp_Burger_restaurant_Desktop.png?v=1731880712000",
+    "tablet_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/1d916745-1019-4589-bd4a-2b15087fb3da/siteTemplateIcons/CByy9AAoS2p6HIHxrVjO_Burger_restaurant_Tablet.png?v=1731880712000",
+    "mobile_thumbnail_url": "https://irp.cdn-website.com/md/dmtmpl/1d916745-1019-4589-bd4a-2b15087fb3da/siteTemplateIcons/egyBCXpsSGSBLzCq8pwT_Burger_Restaurant_Mobile.png?v=1731880712000",
+    "template_id": 1049888,
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "duda",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5
+    },
+    "editor": "ADVANCED"
+  },
+
+ {
+    "template_name": "KEBAP fast food landing page",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/0cedb2f8?t=1734727113219&templateId=1072284&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/0cedb2f8/screenshots/Screenshot_1drRc.png?v=1559746516000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/0cedb2f8/screenshots/Screenshot_1drRc.png?v=1559746516000",
+    "tablet_thumbnail_url": "null?v=1559746516000",
+    "mobile_thumbnail_url": "null?v=1559746516000",
+    "template_id": 1072284,
+    "base_site_name": "0cedb2f8",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 1,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+  {
+    "template_name": "Fast food chicken",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/4869ff4e?t=1734727113220&templateId=1074761&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/4869ff4e/screenshots/Screenshot.png?v=1591799415000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/4869ff4e/screenshots/Screenshot.png?v=1591799415000",
+    "tablet_thumbnail_url": "null?v=1591799415000",
+    "mobile_thumbnail_url": "null?v=1591799415000",
+    "template_id": 1074761,
+    "base_site_name": "4869ff4e",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 7,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+  {
+    "template_name": "Kebap fast-food",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/6bd3de34?t=1734727113221&templateId=1074762&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/6bd3de34/screenshots/Screenshot.png?v=1565219620000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/6bd3de34/screenshots/Screenshot.png?v=1565219620000",
+    "tablet_thumbnail_url": "null?v=1565219620000",
+    "mobile_thumbnail_url": "null?v=1565219620000",
+    "template_id": 1074762,
+    "base_site_name": "6bd3de34",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+  {
+    "template_name": "Burger fast-food",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/5df28972?t=1734727113223&templateId=1074763&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/5df28972/screenshots/Screenshot_aW3ki.png?v=1562721945000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/5df28972/screenshots/Screenshot_aW3ki.png?v=1562721945000",
+    "tablet_thumbnail_url": "null?v=1562721945000",
+    "mobile_thumbnail_url": "null?v=1562721945000",
+    "template_id": 1074763,
+    "base_site_name": "5df28972",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+  {
+    "template_name": "chicken fast food",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/23ab415f?t=1734727113224&templateId=1075042&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/23ab415f/screenshots/Screenshot.png?v=1591799223000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/23ab415f/screenshots/Screenshot.png?v=1591799223000",
+    "tablet_thumbnail_url": "null?v=1591799223000",
+    "mobile_thumbnail_url": "null?v=1591799223000",
+    "template_id": 1075042,
+    "base_site_name": "23ab415f",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 7,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "BURGER",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/5348ef0a?t=1734727113226&templateId=1076223&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/5348ef0a/screenshots/Screenshot.png?v=1565935939000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/5348ef0a/screenshots/Screenshot.png?v=1565935939000",
+    "tablet_thumbnail_url": "null?v=1565935939000",
+    "mobile_thumbnail_url": "null?v=1565935939000",
+    "template_id": 1076223,
+    "base_site_name": "5348ef0a",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
+{
+    "template_name": "Burger fast-food",
+    "preview_url": "http://www.virtualvisiblehands.com/preview/5df28972?t=1734729525373&templateId=1074763&languageCode=fr",
+    "thumbnail_url": "https://irp-cdn.multiscreensite.com/5df28972/screenshots/Screenshot_aW3ki.png?v=1562721945000",
+    "desktop_thumbnail_url": "https://irp-cdn.multiscreensite.com/5df28972/screenshots/Screenshot_aW3ki.png?v=1562721945000",
+    "tablet_thumbnail_url": "null?v=1562721945000",
+    "mobile_thumbnail_url": "null?v=1562721945000",
+    "template_id": 1074763,
+    "base_site_name": "5df28972",
+    "template_properties": {
+      "can_build_from_url": false,
+      "type": "custom",
+      "has_store": false,
+      "has_blog": false,
+      "page_count": 5,
+      "visibility": "PRIVATE"
+    },
+    "editor": "ADVANCED"
+  },
